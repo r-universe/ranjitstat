@@ -3,3 +3,43 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "TSF"]
+	path = TSF
+	url = https://github.com/cran/TSF
+	shallow = true
+	registered = true
+[submodule "TSLSTM"]
+	path = TSLSTM
+	url = https://github.com/cran/TSLSTM
+	shallow = true
+	registered = true
+[submodule "VIRF"]
+	path = VIRF
+	url = https://github.com/cran/VIRF
+	shallow = true
+	registered = true
+[submodule "WaveletANN"]
+	path = WaveletANN
+	url = https://github.com/cran/WaveletANN
+	shallow = true
+	registered = true
+[submodule "WaveletArima"]
+	path = WaveletArima
+	url = https://github.com/cran/WaveletArima
+	shallow = true
+	registered = true
+[submodule "WaveletGARCH"]
+	path = WaveletGARCH
+	url = https://github.com/cran/WaveletGARCH
+	shallow = true
+	registered = true
+[submodule "WaveletRF"]
+	path = WaveletRF
+	url = https://github.com/cran/WaveletRF
+	shallow = true
+	registered = true
+[submodule "WaveletSVR"]
+	path = WaveletSVR
+	url = https://github.com/cran/WaveletSVR
+	shallow = true
+	registered = true
