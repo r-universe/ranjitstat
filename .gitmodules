@@ -33,6 +33,11 @@
 	url = https://github.com/cran/WaveletGARCH
 	shallow = true
 	registered = true
+[submodule "WaveletGBM"]
+	path = WaveletGBM
+	url = https://github.com/cran/WaveletGBM
+	shallow = true
+	registered = true
 [submodule "WaveletRF"]
 	path = WaveletRF
 	url = https://github.com/cran/WaveletRF
