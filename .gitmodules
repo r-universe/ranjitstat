@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "PWEV"]
+	path = PWEV
+	url = https://github.com/cran/PWEV
 [submodule "TSF"]
 	path = TSF
 	url = https://github.com/cran/TSF
