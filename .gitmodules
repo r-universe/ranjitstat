@@ -11,6 +11,9 @@
 [submodule "TSLSTM"]
 	path = TSLSTM
 	url = https://github.com/cran/TSLSTM
+[submodule "UEI"]
+	path = UEI
+	url = https://github.com/cran/UEI
 [submodule "VIRF"]
 	path = VIRF
 	url = https://github.com/cran/VIRF
