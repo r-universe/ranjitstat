@@ -20,6 +20,9 @@
 [submodule "VIRF"]
 	path = VIRF
 	url = https://github.com/cran/VIRF
+[submodule "WaveST"]
+	path = WaveST
+	url = https://github.com/cran/WaveST
 [submodule "WaveletANN"]
 	path = WaveletANN
 	url = https://github.com/cran/WaveletANN
