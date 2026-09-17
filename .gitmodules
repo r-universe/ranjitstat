@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ARInfoLSTM"]
+	path = ARInfoLSTM
+	url = https://github.com/cran/ARInfoLSTM
 [submodule "EEML"]
 	path = EEML
 	url = https://github.com/cran/EEML
