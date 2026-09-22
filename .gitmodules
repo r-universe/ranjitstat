@@ -8,6 +8,9 @@
 [submodule "EEML"]
 	path = EEML
 	url = https://github.com/cran/EEML
+[submodule "GARCHInfoLSTM"]
+	path = GARCHInfoLSTM
+	url = https://github.com/cran/GARCHInfoLSTM
 [submodule "PWEV"]
 	path = PWEV
 	url = https://github.com/cran/PWEV
