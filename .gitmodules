@@ -20,6 +20,9 @@
 [submodule "RWInfoLSTM"]
 	path = RWInfoLSTM
 	url = https://github.com/cran/RWInfoLSTM
+[submodule "SARIMAInfoRF"]
+	path = SARIMAInfoRF
+	url = https://github.com/cran/SARIMAInfoRF
 [submodule "TSF"]
 	path = TSF
 	url = https://github.com/cran/TSF
